@@ -1,0 +1,1 @@
+This is a template repo for the String Calculator TDD Exercise here: https://osherove.com/tdd-kata-1
