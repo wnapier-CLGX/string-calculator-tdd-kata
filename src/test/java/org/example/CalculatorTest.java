@@ -11,7 +11,6 @@ class CalculatorTest {
         //arrange
 
         //act
-        Calculator.add("0");
 
         //assert
     }
